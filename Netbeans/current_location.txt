@@ -1,0 +1,35 @@
+DROP FUNCTION public.current_location(venue_arg integer);
+CREATE OR REPLACE FUNCTION public.current_location(venue_arg integer)
+ RETURNS TABLE(x double precision, y double precision, z double precision, ts timestamp with time zone, venue1 integer, device1 character varying, latitude double precision, longitude double precision, venue2 integer) AS
+$func$
+DECLARE
+  rec RECORD;
+BEGIN
+FOR rec IN
+  SELECT DISTINCT device FROM location 
+LOOP
+  RETURN QUERY
+  SELECT loc.x, loc.y, loc.z, loc.timestamp, loc.venue, loc.device,
+         ven.latitude, ven.longitude, ven.id
+	 FROM location as loc, venues as ven
+    WHERE loc.venue = ven.id AND venue_arg = ven.id AND loc.device LIKE rec.device 
+    ORDER BY timestamp DESC LIMIT 1;
+          END LOOP;
+END;
+$func$  LANGUAGE PLPGSQL
+
+while (rs != null && rs.next()) {
+                    String current_location = rs.getString("current_location").replaceAll("[()]", "");
+                    List<String> items = Arrays.asList(current_location.split("\\s*,\\s*"));                 
+                    
+                    // 0                   1                   2                   3                            4               5                          6                          7                           8       
+                    // x double precision, y double precision, z double precision, ts timestamp with time zone, venue1 integer, device1 character varying, latitude double precision, longitude double precision, venue2 integer
+                    
+                    JSONObject tuple = new JSONObject();                    
+                    tuple.put("timestamp", items.get(3));
+                    tuple.put("lat", Double.parseDouble(items.get(6)) + Double.parseDouble(items.get(1))/metersPerDregreeLatitude );
+                    tuple.put("long", Double.parseDouble(items.get(7)) + Double.parseDouble(items.get(0))/metersPerDregreeLongitude );
+                    tuple.put("alt", Double.parseDouble(items.get(2)));
+                    tuple.put("device", items.get(5));
+                    oJSONArray.put(tuple);
+                }

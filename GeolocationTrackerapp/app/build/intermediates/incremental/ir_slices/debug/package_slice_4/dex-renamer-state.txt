@@ -1,0 +1,4 @@
+#Fri Apr 05 12:15:04 PDT 2019
+base.0=/Users/kinjalgala/Downloads/Pink_Panther-master/GeolocationTracker/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

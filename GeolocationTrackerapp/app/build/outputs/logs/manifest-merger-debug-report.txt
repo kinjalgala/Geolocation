@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/6b99b58e4fcf406d1a2723e5e6886d52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/9643ff3214d0a2927a82eeffa2095b23/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f858a9d0e5b06e7078a99e58c986324/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/41fa47e93cc77dd4431d90e417f9245a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/1fe8d8be74feac1ff380b6a2af3bbebc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/89e9c99c2eca79fcc8d12b0c9fab8121/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/454dcc51dcd468f279c88838d5af96b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/573c069b8614c3e837ff577fdef0b0ae/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/1634d9c49188326c8e0d219a6885c34f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/1b129b8bfb1258d7e078b2a29745a054/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5f0eed39ce71883722d25e734e0752d4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab905309833e25e48a37b6313230893a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0d785938ef23fc4fc3ecc450176f6dec/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/e20c0736629a53fb4711c95419d3927c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/0c0469698afbe8a37b337adedc1c8f63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/b34cd4a2e159e9e5577264b3560048ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/a2928abf63600a0268fd5b8d1246478e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/d6540296bea934ca711f2dca9c61d255/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/9f36d672aba1b2c966afd352aaa5768a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/59d19ab87992c19638115b0d8731ed9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/44cd15af9d044c13cb719c3ec9232067/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/e9cdd94a0927fcd49df948731490a314/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/e874ce6d7b1d3f75e829beca5b676761/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/062b78ce9f5c3c5bd3ea10d34c24f946/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/d9b7afeaeccdb7db056007dc1f8958ce/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/5a06acc71b1f20565c4f6f3924813641/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b60d5e6b49936fc4eff41bb747a6dd18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c644eae17072cf19bdbdcc6b6eb8e274/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c891775d673f1af38b866c8bcb221ace/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/aee8df895bcb6f526a0b7efa8198c0ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/ccd980c5883b7db0fc0dbf7fe7df2f99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/4f335893d5d4b3a4c81edd27cfdf833d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/a7e946fbc046f1b60eacd61498314922/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3bed9a1a735c075defb1df6f157de0e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/bb8102a85c8e77311e31823c53b3d58e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:9:5-66
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f858a9d0e5b06e7078a99e58c986324/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f858a9d0e5b06e7078a99e58c986324/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:11:5-39:19
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/9643ff3214d0a2927a82eeffa2095b23/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/9643ff3214d0a2927a82eeffa2095b23/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f858a9d0e5b06e7078a99e58c986324/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f858a9d0e5b06e7078a99e58c986324/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/41fa47e93cc77dd4431d90e417f9245a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/41fa47e93cc77dd4431d90e417f9245a/AndroidManifest.xml:7:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/1fe8d8be74feac1ff380b6a2af3bbebc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/1fe8d8be74feac1ff380b6a2af3bbebc/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/573c069b8614c3e837ff577fdef0b0ae/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/573c069b8614c3e837ff577fdef0b0ae/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/1634d9c49188326c8e0d219a6885c34f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/1634d9c49188326c8e0d219a6885c34f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/1b129b8bfb1258d7e078b2a29745a054/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/1b129b8bfb1258d7e078b2a29745a054/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5f0eed39ce71883722d25e734e0752d4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5f0eed39ce71883722d25e734e0752d4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab905309833e25e48a37b6313230893a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab905309833e25e48a37b6313230893a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0d785938ef23fc4fc3ecc450176f6dec/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0d785938ef23fc4fc3ecc450176f6dec/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/d9b7afeaeccdb7db056007dc1f8958ce/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/d9b7afeaeccdb7db056007dc1f8958ce/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c644eae17072cf19bdbdcc6b6eb8e274/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c644eae17072cf19bdbdcc6b6eb8e274/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/d9b7afeaeccdb7db056007dc1f8958ce/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:17:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:26:9-28:55
+	android:value
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:27:13-58
+activity#edu.sdsu.geolocation.tracker.MapsActivity
+ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/6b99b58e4fcf406d1a2723e5e6886d52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/6b99b58e4fcf406d1a2723e5e6886d52/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/9643ff3214d0a2927a82eeffa2095b23/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/9643ff3214d0a2927a82eeffa2095b23/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f858a9d0e5b06e7078a99e58c986324/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f858a9d0e5b06e7078a99e58c986324/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/41fa47e93cc77dd4431d90e417f9245a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/41fa47e93cc77dd4431d90e417f9245a/AndroidManifest.xml:5:5-44
+MERGED from [com.android.volley:volley:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/1fe8d8be74feac1ff380b6a2af3bbebc/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/1fe8d8be74feac1ff380b6a2af3bbebc/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/89e9c99c2eca79fcc8d12b0c9fab8121/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/89e9c99c2eca79fcc8d12b0c9fab8121/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/454dcc51dcd468f279c88838d5af96b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/454dcc51dcd468f279c88838d5af96b0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/573c069b8614c3e837ff577fdef0b0ae/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/573c069b8614c3e837ff577fdef0b0ae/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/1634d9c49188326c8e0d219a6885c34f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/1634d9c49188326c8e0d219a6885c34f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/1b129b8bfb1258d7e078b2a29745a054/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/1b129b8bfb1258d7e078b2a29745a054/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5f0eed39ce71883722d25e734e0752d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5f0eed39ce71883722d25e734e0752d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab905309833e25e48a37b6313230893a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab905309833e25e48a37b6313230893a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0d785938ef23fc4fc3ecc450176f6dec/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0d785938ef23fc4fc3ecc450176f6dec/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/e20c0736629a53fb4711c95419d3927c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/e20c0736629a53fb4711c95419d3927c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/0c0469698afbe8a37b337adedc1c8f63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/0c0469698afbe8a37b337adedc1c8f63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/b34cd4a2e159e9e5577264b3560048ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/b34cd4a2e159e9e5577264b3560048ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/a2928abf63600a0268fd5b8d1246478e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/a2928abf63600a0268fd5b8d1246478e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/d6540296bea934ca711f2dca9c61d255/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/d6540296bea934ca711f2dca9c61d255/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/9f36d672aba1b2c966afd352aaa5768a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/9f36d672aba1b2c966afd352aaa5768a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/59d19ab87992c19638115b0d8731ed9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/59d19ab87992c19638115b0d8731ed9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/44cd15af9d044c13cb719c3ec9232067/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/44cd15af9d044c13cb719c3ec9232067/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/e9cdd94a0927fcd49df948731490a314/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/e9cdd94a0927fcd49df948731490a314/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/e874ce6d7b1d3f75e829beca5b676761/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/e874ce6d7b1d3f75e829beca5b676761/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/062b78ce9f5c3c5bd3ea10d34c24f946/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/062b78ce9f5c3c5bd3ea10d34c24f946/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/d9b7afeaeccdb7db056007dc1f8958ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/d9b7afeaeccdb7db056007dc1f8958ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/5a06acc71b1f20565c4f6f3924813641/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/5a06acc71b1f20565c4f6f3924813641/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b60d5e6b49936fc4eff41bb747a6dd18/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b60d5e6b49936fc4eff41bb747a6dd18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c644eae17072cf19bdbdcc6b6eb8e274/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c644eae17072cf19bdbdcc6b6eb8e274/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c891775d673f1af38b866c8bcb221ace/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c891775d673f1af38b866c8bcb221ace/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/aee8df895bcb6f526a0b7efa8198c0ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/aee8df895bcb6f526a0b7efa8198c0ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/ccd980c5883b7db0fc0dbf7fe7df2f99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/ccd980c5883b7db0fc0dbf7fe7df2f99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/4f335893d5d4b3a4c81edd27cfdf833d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/4f335893d5d4b3a4c81edd27cfdf833d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/a7e946fbc046f1b60eacd61498314922/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/a7e946fbc046f1b60eacd61498314922/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3bed9a1a735c075defb1df6f157de0e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3bed9a1a735c075defb1df6f157de0e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/bb8102a85c8e77311e31823c53b3d58e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/bb8102a85c8e77311e31823c53b3d58e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab905309833e25e48a37b6313230893a/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kinjalgala/Desktop/Pink_Panther-master/GeolocationTracker/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f858a9d0e5b06e7078a99e58c986324/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f858a9d0e5b06e7078a99e58c986324/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f858a9d0e5b06e7078a99e58c986324/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f858a9d0e5b06e7078a99e58c986324/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/4f858a9d0e5b06e7078a99e58c986324/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/573c069b8614c3e837ff577fdef0b0ae/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/573c069b8614c3e837ff577fdef0b0ae/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/573c069b8614c3e837ff577fdef0b0ae/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/573c069b8614c3e837ff577fdef0b0ae/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5f0eed39ce71883722d25e734e0752d4/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5f0eed39ce71883722d25e734e0752d4/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5f0eed39ce71883722d25e734e0752d4/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab905309833e25e48a37b6313230893a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0d785938ef23fc4fc3ecc450176f6dec/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0d785938ef23fc4fc3ecc450176f6dec/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab905309833e25e48a37b6313230893a/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/kinjalgala/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab905309833e25e48a37b6313230893a/AndroidManifest.xml:27:13-51
